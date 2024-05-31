@@ -1,0 +1,19 @@
+{
+  "name": "prueba-backend",
+  "version": "1.0.0",
+  "description": "backend master technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "stiv120",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
